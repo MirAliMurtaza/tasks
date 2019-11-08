@@ -1,0 +1,2 @@
+a=input("enter your file name please")
+print("your extension is",a[4:8])
